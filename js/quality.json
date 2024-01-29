@@ -1,0 +1,28 @@
+
+[
+    {
+      "id": 1,
+      "Titre": "Compréhension du besoin",
+      "src": "imgs/quality/Q1.jpeg",
+      "des" : "Nous assurer d’être dans le vrai quant à votre besoin"
+    },
+    {
+      "id": 2,
+      "Titre": "Offre à votre image",
+      "src": "imgs/quality/Q2.jpeg",
+      "des" : "Vous rendre un service dont vous poserez votre empreinte"
+    },
+    {
+      "id": 3,
+      "Titre": "Ecoute et Empathie",
+      "src": "imgs/quality/Q3.jpeg",
+      "des" : "L’écoute et la bienveillance sont essentielles afin d’être au plus près de votre demande"
+    },
+    {
+      "id": 4,
+      "Titre": "Équité",
+      "src": "imgs/quality/Q4.jpeg",
+      "des" : "C’est le dénominateur commun que ce soit dans la relation, notre travail ou le prix"
+    }
+  ]
+
